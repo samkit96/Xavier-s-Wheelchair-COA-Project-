@@ -60,6 +60,13 @@ void add_to_hash(char *ch , char *opc , int val) {
 	return;
 }
 
+/*void printtab(int idx) {
+	node *trav=tabl[idx];
+	while (trav!=NULL) {
+		printf("Hash value:-> %d\nName:-> %s\nOpcode:-> %s\nNumber of Arguments:->%d\n\n",idx,trav->name,trav->opcode,trav->num);
+		trav=trav->next;
+	}
+}*/
 
 char *to_bin(int num , int le) {
 	char *pk;
@@ -145,6 +152,10 @@ int main() {
 	fclose(fp);
 
 	st[0]='\0';
+
+	for (int i=0 ; i<10000007 ; i++) {
+		printtab(i);
+	}
 
 	while (scanf("%s",st)!=EOF) {
 		li++;

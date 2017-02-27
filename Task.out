@@ -1,3 +1,303 @@
+Hash value:-> 1564
+Name:-> L0
+Opcode:-> 000000000100
+Number of Arguments:->0
+
+Hash value:-> 1595
+Name:-> L1
+Opcode:-> 000000001001
+Number of Arguments:->0
+
+Hash value:-> 1601
+Name:-> R1
+Opcode:-> 000001
+Number of Arguments:->0
+
+Hash value:-> 1626
+Name:-> L2
+Opcode:-> 000000001110
+Number of Arguments:->0
+
+Hash value:-> 1632
+Name:-> R2
+Opcode:-> 000010
+Number of Arguments:->0
+
+Hash value:-> 1657
+Name:-> L3
+Opcode:-> 000000010000
+Number of Arguments:->0
+
+Hash value:-> 1663
+Name:-> R3
+Opcode:-> 000011
+Number of Arguments:->0
+
+Hash value:-> 1688
+Name:-> L4
+Opcode:-> 000000100101
+Number of Arguments:->0
+
+Hash value:-> 1694
+Name:-> R4
+Opcode:-> 000100
+Number of Arguments:->0
+
+Hash value:-> 1719
+Name:-> L5
+Opcode:-> 000000111010
+Number of Arguments:->0
+
+Hash value:-> 1725
+Name:-> R5
+Opcode:-> 000101
+Number of Arguments:->0
+
+Hash value:-> 1750
+Name:-> L6
+Opcode:-> 000001001111
+Number of Arguments:->0
+
+Hash value:-> 1756
+Name:-> R6
+Opcode:-> 000110
+Number of Arguments:->0
+
+Hash value:-> 1781
+Name:-> L7
+Opcode:-> 000001100100
+Number of Arguments:->0
+
+Hash value:-> 1787
+Name:-> R7
+Opcode:-> 000111
+Number of Arguments:->0
+
+Hash value:-> 1818
+Name:-> R8
+Opcode:-> 001000
+Number of Arguments:->0
+
+Hash value:-> 1849
+Name:-> R9
+Opcode:-> 001001
+Number of Arguments:->0
+
+Hash value:-> 2157
+Name:-> PC
+Opcode:-> 010001
+Number of Arguments:->0
+
+Hash value:-> 2491
+Name:-> IN
+Opcode:-> 0000000110
+Number of Arguments:->1
+
+Hash value:-> 2563
+Name:-> SP
+Opcode:-> 010011
+Number of Arguments:->0
+
+Hash value:-> 47729
+Name:-> R10
+Opcode:-> 001010
+Number of Arguments:->0
+
+Hash value:-> 48690
+Name:-> R11
+Opcode:-> 001011
+Number of Arguments:->0
+
+Hash value:-> 49651
+Name:-> R12
+Opcode:-> 001100
+Number of Arguments:->0
+
+Hash value:-> 50612
+Name:-> R13
+Opcode:-> 001101
+Number of Arguments:->0
+
+Hash value:-> 51573
+Name:-> R14
+Opcode:-> 001110
+Number of Arguments:->0
+
+Hash value:-> 52534
+Name:-> R15
+Opcode:-> 001111
+Number of Arguments:->0
+
+Hash value:-> 53495
+Name:-> R16
+Opcode:-> 010000
+Number of Arguments:->0
+
+Hash value:-> 65610
+Name:-> LDB
+Opcode:-> 0100
+Number of Arguments:->2
+
+Hash value:-> 66113
+Name:-> STB
+Opcode:-> 0011
+Number of Arguments:->1
+
+Hash value:-> 66144
+Name:-> SUB
+Opcode:-> 1101
+Number of Arguments:->2
+
+Hash value:-> 67521
+Name:-> ADD
+Opcode:-> 0001
+Number of Arguments:->2
+
+Hash value:-> 67739
+Name:-> BKD
+Opcode:-> 000000000011
+Number of Arguments:->0
+
+Hash value:-> 67739
+Name:-> BKD
+Opcode:-> 000011010100
+Number of Arguments:->0
+
+Hash value:-> 68115
+Name:-> FWD
+Opcode:-> 000000000010
+Number of Arguments:->0
+
+Hash value:-> 68115
+Name:-> FWD
+Opcode:-> 000010110111
+Number of Arguments:->0
+
+Hash value:-> 68801
+Name:-> JNE
+Opcode:-> 1100
+Number of Arguments:->1
+
+Hash value:-> 77138
+Name:-> HDN
+Opcode:-> 000000000111
+Number of Arguments:->0
+
+Hash value:-> 77138
+Name:-> HDN
+Opcode:-> 000100100011
+Number of Arguments:->0
+
+Hash value:-> 79334
+Name:-> CMP
+Opcode:-> 0010
+Number of Arguments:->2
+
+Hash value:-> 79341
+Name:-> JMP
+Opcode:-> 1000
+Number of Arguments:->1
+
+Hash value:-> 79587
+Name:-> HUP
+Opcode:-> 000000000110
+Number of Arguments:->0
+
+Hash value:-> 79587
+Name:-> HUP
+Opcode:-> 000100000110
+Number of Arguments:->0
+
+Hash value:-> 80054
+Name:-> JEQ
+Opcode:-> 1011
+Number of Arguments:->1
+
+Hash value:-> 82999
+Name:-> JGT
+Opcode:-> 1001
+Number of Arguments:->1
+
+Hash value:-> 83152
+Name:-> HLT
+Opcode:-> 0000000000000001
+Number of Arguments:->0
+
+Hash value:-> 83154
+Name:-> JLT
+Opcode:-> 1010
+Number of Arguments:->1
+
+Hash value:-> 83438
+Name:-> OUT
+Opcode:-> 0111
+Number of Arguments:->1
+
+Hash value:-> 83722
+Name:-> START
+Opcode:-> 000000000000
+Number of Arguments:->1
+
+Hash value:-> 83722
+Name:-> START
+Opcode:-> 000001111100
+Number of Arguments:->0
+
+Hash value:-> 85172
+Name:-> MOV
+Opcode:-> 0000
+Number of Arguments:->2
+
+Hash value:-> 2079252
+Name:-> ROTC
+Opcode:-> 000000000100
+Number of Arguments:->0
+
+Hash value:-> 2079252
+Name:-> ROTC
+Opcode:-> 000011110001
+Number of Arguments:->0
+
+Hash value:-> 2180052
+Name:-> FLAG
+Opcode:-> 010010
+Number of Arguments:->0
+
+Hash value:-> 2461886
+Name:-> STOP
+Opcode:-> 000000001000
+Number of Arguments:->1
+
+Hash value:-> 2789994
+Name:-> BACKIN
+Opcode:-> 000000001001
+Number of Arguments:->0
+
+Hash value:-> 3215217
+Name:-> BACKDEC
+Opcode:-> 000000001010
+Number of Arguments:->0
+
+Hash value:-> 3487608
+Name:-> CHARGE
+Opcode:-> 000000001111
+Number of Arguments:->0
+
+Hash value:-> 3487608
+Name:-> CHARGE
+Opcode:-> 000100101110
+Number of Arguments:->0
+
+Hash value:-> 3895535
+Name:-> ROTAC
+Opcode:-> 000000000101
+Number of Arguments:->0
+
+Hash value:-> 7284699
+Name:-> STATUS
+Opcode:-> 0101
+Number of Arguments:->1
+
 0000001010000101
 0111FULLY_CHARGED
 
